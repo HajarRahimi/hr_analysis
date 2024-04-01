@@ -23,14 +23,14 @@ As a data analysis instructor seeking practical experience with real-world scena
 - Demographics(Age and Gender)
 - Demographics(Marital status and Ethnicity)
 
-![ScreenShot Demographics](docs/img/demographics.png)
+![ScreenShot Demographics](docs/img/Demographics.png)
 
-- Performance tracker (Hire date, Last review, Next review, Self rate and manager rate individualy) 📆
+- Performance tracker (Hire date, Last review, Next review, Self rate, and manager rate individually) 📆
 
-![ScreenShot PerformanceTracker](docs/img/PerformanceTracker.png)
+![ScreenShot PerformanceTracker](docs/img/performanceTracker.png)
 
 - **Understanding parameters that effect on Attrition:** 🥴
-- Understanding which "Department" and "Job Role" have higher and lowest Attrition Rate
+- Understanding which "Department" and "Job Role" have the higher and lowest Attrition Rate
 - Investigating the effect of "Overtime" and business travel on Attrition Rate
 - Investigating the effect of "Years at Company" on Attrition Rate
 - Investigating the effect of "Hire Date" on Attrition Rate
